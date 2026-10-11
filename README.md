@@ -9,3 +9,7 @@
 - Understand CI/CD pipeline
 - Build a usefull github action flow with hands on project
 - Build the CI/CD and automation tasting and docker image build process using CI/CD pipelines.
+
+## Reference
+- Udemy Course
+    - [Learn how to build automated CI / CD workflows with GitHub's DevOps service.](https://www.udemy.com/course/github-actions-the-complete-guide)
